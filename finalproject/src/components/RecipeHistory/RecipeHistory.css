@@ -1,30 +1,3 @@
-.cards{
-    display: flex;
-    flex-direction: row;
-    gap: 20px;
-    margin-top: 7%;
-    margin-left: 5%;
-    
-}
-.card1, .card2, .card3, .card4{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 15px;
-    padding: 20px;
-    background-color: rgb(226, 209, 226);
-}
-.card1, .card2, .card3, .card4 h4{
-    font-size: 18px;
-    font-family: cursive;
-
-}
-.cards img{
-    width: 250px;
-    height: 300px;
-    object-fit: cover;
-}
 .recipe-text{
     text-align: center;
     font-size: 30px;
@@ -48,10 +21,17 @@
 .recipe-container{
     display: flex;
     justify-content: space-around;
+    align-items: center;
+    
 }
 .detail-container{
-    padding: 20px;
+padding: 20px;
 background-color: beige;
 border: 1px solid rgb(189, 187, 187);
 border-radius: 8px;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }

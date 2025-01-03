@@ -11,7 +11,7 @@ import RecipeHistory from './RecipeHistory'
         const recipes = [
             {
                 id:1,
-                title: 'Panqueque de frutilla, banana y nutella',
+                title: 'Panqueque con nutella',
                 img: panquequeimg,
                 ingredients: ['Frutilla', 'Banana', 'Nutella', 'Panqueque'],
                 instructions: 'Coloca las frutas en el panqueque y agrega la nutella al gusto',
@@ -32,7 +32,7 @@ import RecipeHistory from './RecipeHistory'
             },
             {
                 id:4,
-                title: 'Postre con oreo y dulce de leche',
+                title: 'Postre con oreo',
                 img: postreoreoimg,
                 ingredients: ['Galletas de oreo', 'Dulce de leche', 'Crema'],
                 instructions: 'Tritura las oreos y mezcla con dulce de leche y crema',

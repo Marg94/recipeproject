@@ -6,7 +6,7 @@
     left: 0;
     width: 100%;
     z-index: 1000;
-    background-color: pink;
+    background-color: white;
 }
 .home{
     display: flex;
@@ -36,8 +36,10 @@
     font-family: cursive;
     font-weight: bold;
     cursor: pointer;
+    margin-top: 20px;
+    margin-left: 15%;
 }
 .icono{
-    font-size: 30px;
+    font-size: 27px;
     text-align: center;
 }
