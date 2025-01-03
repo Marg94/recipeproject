@@ -25,6 +25,7 @@ return (
     <img className='img1' src={img} alt="" />
     </div>
     <RecipeCard setView={setView}/>
+    <GiCook />
     </>
 )
 }
