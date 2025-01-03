@@ -1,0 +1,22 @@
+.recipe-summary {
+    padding: 10px;
+    border: 1px solid rgb(189, 187, 187);
+    border-radius: 8px;
+    background-color: beige;
+}
+
+.recipe-summary h2 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.recipe-summary p {
+    font-size: 16px;
+}
+
+.nutritional-score {
+    margin-top: 10px;
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 8px;
+}

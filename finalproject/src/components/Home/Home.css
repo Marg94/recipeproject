@@ -1,0 +1,43 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    background-color: white;
+}
+.home{
+    display: flex;
+    justify-content: center;
+}
+.img1{
+    margin-top: 6%;
+    width: 80%;
+    object-fit: cover;
+}
+.nav h1{
+    font-size: 30px;
+    color: rgb(32, 32, 32);
+    font-weight: bold;
+    font-family: cursive;
+}
+.btn1{
+    background-color: rgb(185, 79, 199);
+    color: beige;
+    width: 100px;
+    height: 60px;
+    border: none;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: cursive;
+    font-weight: bold;
+    cursor: pointer;
+}
+.icono{
+    font-size: 30px;
+    text-align: center;
+}

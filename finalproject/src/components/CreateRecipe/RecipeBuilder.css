@@ -1,0 +1,79 @@
+.panel-container{
+    display: flex;
+    margin-top: 3%;
+    justify-content: space-between;
+    margin-bottom: 5%;
+    background-color: beige;
+}
+.panel-box{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.input2{
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    width: 300px;
+}
+.texto4{
+    font-size: 25px;
+    font-family: cursive;
+    padding: 20px;
+}
+.texto5{
+    font-size: 20px;
+    font-family: cursive;
+    padding: 20px;
+    margin-top: 15%;
+}
+.parrafo{
+    padding: 20px;
+    font-size: 14px;
+    margin-left: 4%;
+}
+.btn3{
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    border: none;
+    background-color: blueviolet;
+    color: beige;
+    margin-top: 6px;
+    cursor: pointer;
+    width: 300px;
+    font-size: 14px;
+    font-family: cursive;
+}
+.btn4{
+    font-size: 14px;
+    font-family: cursive;
+    border: none;
+    border-radius: 5px;
+    background-color: blueviolet;
+    color: beige;
+    padding: 8px;
+    margin: 10px 10px;
+    cursor: pointer;
+}
+::placeholder{
+    font-size: 14px;
+}
+.btn-delete{
+    padding: 7px;
+    border-radius: 5px;
+    border: 1px solid rgb(87, 87, 87);
+    margin-left: 5px;
+    background-color: blueviolet;
+    color: beige;
+    cursor: pointer;
+    margin: 5px;
+    font-family: cursive;
+}
+.enlace{
+    text-decoration: none;
+    font-size: 16px;
+    font-family: cursive;
+    font-weight: bold;
+}
